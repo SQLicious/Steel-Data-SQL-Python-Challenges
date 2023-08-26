@@ -20,6 +20,11 @@ In this repository, you'll find my solutions to the challenges, executed in MySQ
 4. Explore my solution, read the comments, and adapt the queries to your needs.
 5. Feel free to experiment, modify, and enhance the queries to further your understanding.
 
+## Challenges 
+
+[Challenge 2 - Esports Tournament](https://github.com/SQLicious/Steel-Data-SQL-Python-Challenges/blob/main/Challenge%202%20-%20Esports%20Tournament)
+   
+
 SQL is a dynamic and versatile language, and there's often more than one way to approach a problem. These solutions reflect my thought process, but don't hesitate to put your unique spin on things!
 
 ## Get Involved
@@ -30,4 +35,3 @@ Keep querying,
 [Roopmathi Gunna]
 
 
-[Challenge 2 - Esports Tournament](https://github.com/SQLicious/Steel-Data-SQL-Python-Challenges/blob/main/Challenge%202%20-%20Esports%20Tournament)
