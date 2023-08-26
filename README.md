@@ -10,7 +10,7 @@ Matthew Steel's SQL challenges are a treasure trove of data exploration and mani
 
 ## Repository Structure
 
-In this repository, you'll find my solutions to the challenges, executed in MySQL, neatly organized by challenge number. Each challenge comes with a dedicated SQL file containing my approach, queries, and comments explaining the thought process behind each solution. Whether you're a beginner eager to learn or an experienced data practitioner looking for fresh insights, I hope my solutions inspire your SQL journey.
+In this repository, you'll find my solutions to the challenges, executed in MySQL Workbench 8.0. Each challenge  neatly organized by challenge number, comes with a dedicated SQL file containing my approach, queries, and comments explaining the thought process behind each solution. Whether you're a beginner eager to learn or an experienced data practitioner looking for fresh insights, I hope my solutions inspire your SQL journey.
 
 ## How to Use
 
