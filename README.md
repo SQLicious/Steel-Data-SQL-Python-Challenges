@@ -31,6 +31,7 @@ SQL is a dynamic and versatile language, and there's often more than one way to 
 Have a question about a solution? Spot an improvement? Feel free to open an issue or submit a pull request. Let's learn and grow together through the fascinating world of SQL challenges!
 
 Keep querying,
-[Roopmathi Gunna]
+Roopmathi Gunna
+[Connect with me on Linkedin] (www.linkedin.com/in/roopmathi)
 
 
