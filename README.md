@@ -27,7 +27,7 @@ SQL is a dynamic and versatile language, and there's often more than one way to 
 Have a question about a solution? Spot an improvement? Feel free to open an issue or submit a pull request. Let's learn and grow together through the fascinating world of SQL challenges!
 
 Keep querying,
-[Your Name]
+[Roopmathi Gunna]
 
 
 [Challenge 2 - Esports Tournament](https://github.com/SQLicious/Steel-Data-SQL-Python-Challenges/blob/main/Challenge%202%20-%20Esports%20Tournament)
