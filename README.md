@@ -1,4 +1,3 @@
-# Steel-Data-SQL-Python-Challenges
 
 # SQL Challenges by Matthew Steel Solutions
 
