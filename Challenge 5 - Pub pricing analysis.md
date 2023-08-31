@@ -16,44 +16,29 @@ Here are the tables I created and used in MySQL Workbench 8.0:
 -- SQL code to create the required tables
 ```
 Ad-Hoc Questions and Solutions
-1. How many pubs are located in each country?
-sql
-Copy code
--- SQL code to answer the question
-2. What is the total sales amount for each pub, including the beverage price and quantity sold?
-sql
-Copy code
--- SQL code to answer the question
-3. Which pub has the highest average rating?
-sql
-Copy code
--- SQL code to answer the question
-4. What are the top 5 beverages by sales quantity across all pubs?
-sql
-Copy code
--- SQL code to answer the question
-5. How many sales transactions occurred on each date?
-sql
-Copy code
--- SQL code to answer the question
-6. Find the name of someone that had cocktails and which pub they had it in.
-sql
-Copy code
--- SQL code to answer the question
-7. What is the average price per unit for each category of beverages, excluding the category 'Spirit'?
-sql
-Copy code
--- SQL code to answer the question
-8. Which pubs have a rating higher than the average rating of all pubs?
-sql
-Copy code
--- SQL code to answer the question
-9. What is the running total of sales amount for each pub, ordered by the transaction date?
-sql
-Copy code
--- SQL code to answer the question
-10. For each country, what is the average price per unit of beverages in each category, and what is the overall average price per unit of beverages across all categories?
-sql
+1.	How many pubs are located in each country?
+ ``` SQL code ```
+2.	What is the total sales amount for each pub, including the beverage price and quantity sold?
+ ``` SQL code ```
+3.	Which pub has the highest average rating? 
+``` SQL code ```
+4.	What are the top 5 beverages by sales quantity across all pubs? 
+``` SQL code ```
+5.	How many sales transactions occurred on each date? 
+``` SQL code ```
+6.	Find the name of someone that had cocktails and which pub they had it in. 
+``` SQL code ```
+7.	What is the average price per unit for each category of beverages, excluding the category 'Spirit'? 
+``` SQL code ```
+8.	Which pubs have a rating higher than the average rating of all pubs? 
+``` SQL code ```
+9.	What is the running total of sales amount for each pub, ordered by the transaction date? 
+``` SQL code ```
+10.	For each country, what is the average price per unit of beverages in each category, and what is the overall average price per unit of beverages across all categories?
+ ``` SQL code ```
+11.	For each pub, what is the percentage contribution of each category of beverages to the total sales amount, and what is the pub's overall sales amount?
+ ``` SQL code ```
+
 Copy code
 -- SQL code to answer the question
 11. For each pub, what is the percentage contribution of each category of beverages to the total sales amount, and what is the pub's overall sales amount?
