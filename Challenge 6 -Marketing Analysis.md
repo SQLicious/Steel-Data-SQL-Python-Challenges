@@ -14,6 +14,7 @@ Here are the tables you will be using:
 ![Image 3](image3.png)
 
 Table Creation:
-```sql
 -- SQL code to create the required tables
+```sql
+```
 
