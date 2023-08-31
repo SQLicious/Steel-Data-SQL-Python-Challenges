@@ -22,7 +22,10 @@ I hope my solutions inspire your SQL journey.
 
 ## Challenges 
 
+
 [Challenge 2 - Esports Tournament](https://github.com/SQLicious/Steel-Data-SQL-Python-Challenges/blob/main/Challenge%202%20-%20Esports%20Tournament)
+[Challenge 3 - Customer Insights](Challenge 3 (Customer Insights.md](https://github.com/SQLicious/Steel-Data-SQL-Python-Challenges/blob/main/Challenge%203%20-%20Customer%20Insights.md)
+
    
 
 SQL is a dynamic and versatile language, and there's often more than one way to approach a problem. These solutions reflect my thought process, but don't hesitate to put your unique spin on things!
