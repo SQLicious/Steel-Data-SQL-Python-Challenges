@@ -14,7 +14,7 @@ Here are the tables I created and used in MySQL Workbench 8.0:
 ## Table Creation:
 ```sql
 -- SQL code to create the required tables
-
+```
 Ad-Hoc Questions and Solutions
 1. How many pubs are located in each country?
 sql
