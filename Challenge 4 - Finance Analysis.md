@@ -18,7 +18,7 @@ Table Creation:
 ```
 
 ## Ad-Hoc Questions and Solutions
-###1. What are the names of all the customers who live in New York?
+### 1. What are the names of all the customers who live in New York?
  
  ``` SQL code ```
 
