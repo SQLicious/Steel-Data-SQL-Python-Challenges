@@ -2,7 +2,7 @@
 # Challenge 3 - Customer Insights
 
 ## Intro
-As a Customer Insights Analyst for 'The General Store', I have been tasked with analyzing the following tables to find out crucial information about our customers to provide to our marketing team.
+As a **Customer Insights Analyst** for *'The General Store'*, I have been tasked with analyzing the following tables to find out crucial information about our customers to provide to our marketing team.
 
 ![Case Study Theme](image_file_path.png
 <!-- Insert an image that accurately captures this case study theme -->
