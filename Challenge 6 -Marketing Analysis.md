@@ -1,13 +1,13 @@
 # Marketing Analysis
 
 ## Intro
-You are a Marketing Analyst at 'Sustainable Clothing Co.' They have been running several marketing campaigns and have asked you to provide your insights into whether they have been successful or not. Analyze the following data and answer the questions to form your answer.
+Sustainable Clothing Co. has been running several marketing campaigns. Acting as a Marketing Analyst at 'Sustainable Clothing Co.'I have been asked to provide my insights into whether they have been successful or not. I Analyzed the following data and answered the questions to form my answer for this Challenge.
 
 ![Case Study Theme](image_file_path.png)
 <!-- Insert an image that accurately captures this case study theme -->
 
 ## Tables
-Here are the tables you will be using:
+Here are the tables I created and used in MySQL Workbench 8.0:
 
 ![Image 1](https://steeldata.org.uk/sql6tables.png)
 ![Image 2](image2.png)
