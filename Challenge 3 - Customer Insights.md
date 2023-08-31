@@ -5,8 +5,8 @@
 As a **Customer Insights Analyst** for *'The General Store'*, I have been tasked with analyzing the following tables to find out crucial information about our customers to provide to our marketing team.
 I have built and run the queries in Snowflake.
 
-![Case Study Theme](image_file_path.png
-<!-- Insert an image that accurately captures this case study theme -->
+![Case Study Theme](https://github.com/SQLicious/Steel-Data-SQL-Python-Challenges/blob/main/Images/SQL%20Challenge%203%20-%20Customer%20Insights.png)
+
 
 ## Tables
 Here are the tables I will be using:
