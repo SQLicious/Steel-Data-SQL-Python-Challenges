@@ -9,7 +9,7 @@ As a Finance Analyst for 'The Big Bank', I have been tasked with finding out abo
 ## Tables
 Here are the tables I will be using:
 
-![Image 1]([https://steeldata.org.uk/SQL5tables.png](https://steeldata.org.uk/SQL4tables.png)
+![Image 1](https://steeldata.org.uk/SQL5tables.png](https://steeldata.org.uk/SQL4tables.png)
 
 
 Table Creation:
