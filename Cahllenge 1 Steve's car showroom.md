@@ -1,7 +1,8 @@
 # Challenge 1 - Steve's Car Showroom
 
 ## Intro
-Steve runs a top-end car showroom, but his data analyst has just quit and left him without his crucial insights. Can you analyze the following data to provide him with all the answers he requires?
+Steve runs a top-end car showroom, but his data analyst has just quit and left him without his crucial insights. 
+As an interim Data analyst for Steve, I analyzed the following data to provide him with all the answers he requires.
 
 ![Case Study Theme](image_file_path.png)
 <!-- Insert an image that accurately captures this case study theme -->
@@ -10,7 +11,7 @@ Steve runs a top-end car showroom, but his data analyst has just quit and left h
 Here are the tables you will be using:
 
 ![Image 1](https://steeldata.org.uk/challenge1tables.jpg)
-![Image 2](image2.png)
+
 
 ## Table Creation:
 ```sql
