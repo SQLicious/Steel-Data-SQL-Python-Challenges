@@ -18,11 +18,11 @@ Table Creation:
 ```sql
 ```
 ## Ad-Hoc Questions and Solutions
-###1. How many transactions were completed during each marketing campaign?
+### 1. How many transactions were completed during each marketing campaign?
 ```
 ```
 
-###2. Which product had the highest sales quantity?
+### 2. Which product had the highest sales quantity?
 ###3. What is the total revenue generated from each marketing campaign?
 ###4. What is the top-selling product category based on the total revenue generated?
 ###5. Which products had a higher quantity sold compared to the average quantity sold?
