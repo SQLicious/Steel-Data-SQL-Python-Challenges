@@ -24,7 +24,7 @@ I hope my solutions inspire your SQL journey.
 
 
 [Challenge 2 - Esports Tournament](https://github.com/SQLicious/Steel-Data-SQL-Python-Challenges/blob/main/Challenge%202%20-%20Esports%20Tournament)
-[Challenge 3 - Customer Insights](Challenge 3(https://github.com/SQLicious/Steel-Data-SQL-Python-Challenges/blob/main/Challenge%203%20-%20Customer%20Insights.md)
+[Challenge 3 - Customer Insights](https://github.com/SQLicious/Steel-Data-SQL-Python-Challenges/blob/main/Challenge%203%20-%20Customer%20Insights.md)
 
    
 
