@@ -9,7 +9,7 @@ You are a Marketing Analyst at 'Sustainable Clothing Co.' They have been running
 ## Tables
 Here are the tables you will be using:
 
-![Image 1](image1.png)
+![Image 1](https://steeldata.org.uk/sql6tables.png)
 ![Image 2](image2.png)
 ![Image 3](image3.png)
 
