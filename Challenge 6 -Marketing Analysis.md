@@ -10,10 +10,8 @@ Sustainable Clothing Co. has been running several marketing campaigns. Acting as
 Here are the tables I created and used in MySQL Workbench 8.0:
 
 ![Image 1](https://steeldata.org.uk/sql6tables.png)
-![Image 2](image2.png)
-![Image 3](image3.png)
 
-Table Creation:
+## Table Creation:
 -- SQL code to create the required tables
 ```sql
 ```
