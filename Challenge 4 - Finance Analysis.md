@@ -18,35 +18,37 @@ Table Creation:
 ```
 
 ## Ad-Hoc Questions and Solutions
-###1.	How many pubs are located in each country?
+###1. What are the names of all the customers who live in New York?
  
  ``` SQL code ```
 
-### 2.	What is the total sales amount for each pub, including the beverage price and quantity sold?
+### 2. What is the total number of accounts in the Accounts table?
  ``` SQL code ```
 
-### 3.	Which pub has the highest average rating? 
+### 3. What is the total balance of all checking accounts?
 
 ``` SQL code ```
 
-### 4.	What are the top 5 beverages by sales quantity across all pubs? 
+### 4. What is the total balance of all accounts associated with customers who live in Los Angeles?
 
 ``` SQL code ```
-### 5.	How many sales transactions occurred on each date? 
+### 5. Which branch has the highest average account balance?
 
 ``` SQL code ```
-### 6.	Find the name of someone who had cocktails and which pub they had it in. 
+### 6. Which customer has the highest current balance in their accounts?
 
 ``` SQL code ```
-### 7.	What is the average price per unit for each category of beverages, excluding the category 'Spirit'? 
+### 7. Which customer has made the most transactions in the Transactions table?
 
 ``` SQL code ```
-### 8.	Which pubs have a rating higher than the average rating of all pubs? 
+### 8. Which branch has the highest total balance across all of its accounts?
 
-### ``` SQL code ```
-9.	What is the running total of sales amount for each pub, ordered by the transaction date? 
+ ``` SQL code ```
+ 
+### 9. Which customer has the highest total balance across all of their accounts, including savings and checking accounts?
 
 ``` SQL code ```
-### 10.	For each country, what is the average price per unit of beverages in each category, and what is the overall average price per unit of beverages across all categories?
+
+### 10. Which branch has the highest number of transactions in the Transactions table?
 
  ``` SQL code ```
