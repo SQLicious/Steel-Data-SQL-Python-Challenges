@@ -9,7 +9,7 @@ As a Pricing Analyst working for a pub chain called 'Pubs "R" Us', I have been t
 ## Tables
 Here are the tables I created and used in MySQL Workbench 8.0:
 
-![Image 1](image1.png](https://steeldata.org.uk/SQL5tables.png)
+![Image 1](https://steeldata.org.uk/SQL5tables.png)
 
 ## Table Creation:
 ```sql
