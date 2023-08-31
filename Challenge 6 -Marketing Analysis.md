@@ -17,4 +17,11 @@ Table Creation:
 -- SQL code to create the required tables
 ```sql
 ```
+## Ad-Hoc Questions and Solutions
+1. How many transactions were completed during each marketing campaign?
+```
+```
+
+2. 
+3. 
 
