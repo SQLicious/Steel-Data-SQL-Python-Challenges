@@ -51,6 +51,3 @@ Here are the tables I created and used in MySQL Workbench 8.0:
 ### 11.	For each pub, what is the percentage contribution of each category of beverages to the total sales amount, and what is the pub's overall sales amount?
 
  ``` SQL code ```
-
-11. For each pub, what is the percentage contribution of each category of beverages to the total sales amount, and what is the pub's overall sales amount?
- ``` SQL code ```
