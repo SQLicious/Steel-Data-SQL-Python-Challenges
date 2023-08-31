@@ -104,7 +104,7 @@ VALUES (1, 1),
 ```
 ## Ad-Hoc Questions and Solutions
 
-###1. What are the names of all the countries in the country table?
+### 1. What are the names of all the countries in the country table?
 
 ```sql
 SELECT country_name 
