@@ -1,15 +1,16 @@
-# Challenge 5 - Pub Pricing Analysis
+# Challenge 1 - Steve's Car Showroom
 
 ## Intro
-As a Pricing Analyst working for a pub chain called 'Pubs "R" Us', I have been tasked with analyzing the drinks prices and sales to gain a greater insight into how the pubs in our chain are performing.
+Steve runs a top-end car showroom, but his data analyst has just quit and left him without his crucial insights. Can you analyze the following data to provide him with all the answers he requires?
 
 ![Case Study Theme](image_file_path.png)
 <!-- Insert an image that accurately captures this case study theme -->
 
 ## Tables
-Here are the tables I created and used in MySQL Workbench 8.0:
+Here are the tables you will be using:
 
-![Image 1](https://steeldata.org.uk/SQL5tables.png)
+![Image 1](https://steeldata.org.uk/challenge1tables.jpg)
+![Image 2](image2.png)
 
 ## Table Creation:
 ```sql
