@@ -1,7 +1,7 @@
 # Marketing Analysis
 
 ## Intro
-Sustainable Clothing Co. has been running several marketing campaigns. Acting as a Marketing Analyst at 'Sustainable Clothing Co.'I have been asked to provide my insights into whether they have been successful or not. I Analyzed the following data and answered the questions to form my answer for this Challenge.
+Sustainable Clothing Co. has been running several marketing campaigns. Acting as a Marketing Analyst at 'Sustainable Clothing Co.', I have been asked to provide my insights into whether they have been successful or not. I analyzed the following data and answered the questions to form my answer for this Challenge.
 
 ![Case Study Theme](image_file_path.png)
 <!-- Insert an image that accurately captures this case study theme -->
