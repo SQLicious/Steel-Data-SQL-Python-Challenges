@@ -118,7 +118,7 @@ VALUES (1, 1, '2022-01-01', -500.00),
 ## Ad-Hoc Questions and Solutions
 ### 1. What are the names of all the customers who live in New York?
  
- ```
+ ```sql
 SELECT FirstName,
        LastName
 FROM Customers
