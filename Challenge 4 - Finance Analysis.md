@@ -126,15 +126,27 @@ WHERE City = 'New York';
  ```
 
 ### 2. What is the total number of accounts in the Accounts table?
- ``` SQL code ```
+ ``` 
+ SELECT COUNT(*) AS TotalAccounts
+ FROM Accounts;
+ ```
 
 ### 3. What is the total balance of all checking accounts?
 
-``` SQL code ```
+```
+SELECT SUM(Balance) AS TotalCheckingBalance
+FROM Accounts
+WHERE AccountType = 'Checking';
 
+```
 ### 4. What is the total balance of all accounts associated with customers who live in Los Angeles?
 
-``` SQL code ```
+``` 
+SELECT SUM(Balance) AS TotalBalanceLosAngeles
+FROM Accounts
+JOIN Customers ON Accounts.CustomerID = Customers.CustomerID
+WHERE Customers.City = 'Los Angeles';
+ ```
 ### 5. Which branch has the highest average account balance?
 
 ``` SQL code ```
