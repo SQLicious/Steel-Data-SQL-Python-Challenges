@@ -150,33 +150,74 @@ WHERE Customers.City = 'Los Angeles';
 ### 5. Which branch has the highest average account balance?
 
 ``` sql
-SQL code
+SELECT Branches.BranchName, 
+       ROUND(AVG(Accounts.Balance),2) AS AvgBalance
+FROM Branches
+JOIN Accounts ON Branches.BranchID = Accounts.BranchID
+GROUP BY Branches.BranchName
+ORDER BY AvgBalance DESC
+LIMIT 1;
 ```
 ### 6. Which customer has the highest current balance in their accounts?
 
 ``` sql
-SQL code
+SELECT Customers.FirstName,
+      Customers.LastName, 
+      MAX(Accounts.Balance) AS MaxBalance
+FROM Customers
+JOIN Accounts ON Customers.CustomerID = Accounts.CustomerID
+GROUP BY Customers.FirstName, Customers.LastName
+ORDER BY MaxBalance DESC
+LIMIT 1;
 
  ```
 ### 7. Which customer has made the most transactions in the Transactions table?
 
 ``` sql
-SQL code
+SELECT Customers.FirstName, 
+       Customers.LastName,
+       COUNT(Transactions.TransactionID) AS TotalTransactions
+FROM Customers
+JOIN Accounts ON Customers.CustomerID = Accounts.CustomerID
+JOIN Transactions ON Accounts.AccountID = Transactions.AccountID
+GROUP BY Customers.FirstName, Customers.LastName
+ORDER BY TotalTransactions DESC
+LIMIT 1;
  ```
 ### 8. Which branch has the highest total balance across all of its accounts?
 
  ``` sql
- SQL code
+SELECT Branches.BranchName,
+       SUM(Accounts.Balance) AS TotalBranchBalance
+FROM Branches
+JOIN Accounts ON Branches.BranchID = Accounts.BranchID
+GROUP BY Branches.BranchName
+ORDER BY TotalBranchBalance DESC
+LIMIT 1;
  ```
  
 ### 9. Which customer has the highest total balance across all of their accounts, including savings and checking accounts?
 
 ``` sql
-SQL code
+SELECT Customers.FirstName,
+       Customers.LastName,
+       SUM(Accounts.Balance) AS TotalBalance
+FROM Customers
+JOIN Accounts ON Customers.CustomerID = Accounts.CustomerID
+GROUP BY Customers.FirstName, Customers.LastName
+ORDER BY TotalBalance DESC
+LIMIT 1;
  ```
 
 ### 10. Which branch has the highest number of transactions in the Transactions table?
 
  ``` sql
- SQL code
+SELECT Branches.BranchName,
+       COUNT(Transactions.TransactionID) AS TotalTransactions
+FROM Branches
+JOIN Accounts ON Branches.BranchID = Accounts.BranchID
+JOIN Transactions ON Accounts.AccountID = Transactions.AccountID
+GROUP BY Branches.BranchName
+ORDER BY TotalTransactions DESC
+LIMIT 1;
  ```
