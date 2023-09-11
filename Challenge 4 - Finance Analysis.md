@@ -3,7 +3,7 @@
 ## Intro
 As a Finance Analyst for 'The Big Bank', I have been tasked with finding out about our customers and their banking behavior. I will examine the accounts they hold and the type of transactions they make to develop greater insight into our customers.
 
-![Case Study Theme](image_file_path.png)
+![Case Study Theme](https://github.com/SQLicious/Steel-Data-SQL-Python-Challenges/blob/main/Images/SQL%20Challenge%204%20-%20Finance%20Analysis.png)
 <!-- Insert an image that accurately captures this case study theme -->
 
 ## Tables
