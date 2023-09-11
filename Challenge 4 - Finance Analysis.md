@@ -7,7 +7,7 @@ As a Finance Analyst for 'The Big Bank', I have been tasked with finding out abo
 <!-- Insert an image that accurately captures this case study theme -->
 
 ## Tables
-Here are the tables I will be using:
+Here are the four tables I will be using:
 
 ![Image 1](https://steeldata.org.uk/SQL4tables.png)
 
