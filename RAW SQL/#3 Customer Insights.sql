@@ -1,5 +1,5 @@
 /*Date created and Last ran in Snowflake: 08-31-2023 
-Challenge 2 - Esports Tournament
+Challenge 3 - Customer Insights
 Challenge Source: https://steeldata.org.uk/sql3.html */
 
 CREATE TABLE country (
