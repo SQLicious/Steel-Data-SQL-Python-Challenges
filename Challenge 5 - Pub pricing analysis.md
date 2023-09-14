@@ -3,7 +3,8 @@
 ## Intro
 As a Pricing Analyst working for a pub chain called 'Pubs "R" Us', I have been tasked with analyzing the drinks prices and sales to gain a greater insight into how the pubs in our chain are performing.
 
-![Case Study Theme](image_file_path.png](https://github.com/SQLicious/Steel-Data-SQL-Python-Challenges/blob/main/Images/SQL%20Challenge%205%20-%20Pubs%20R%20US%20Analysis.png)
+![Case Study Theme](https://github.com/SQLicious/Steel-Data-SQL-Python-Challenges/blob/main/Images/SQL%20Challenge%205%20-%20Pubs%20R%20US%20Analysis.png)
+
 <!-- Insert an image that accurately captures this case study theme -->
 
 ## Tables
