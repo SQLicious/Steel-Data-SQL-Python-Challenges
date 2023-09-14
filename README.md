@@ -29,6 +29,8 @@ I hope my solutions inspire your SQL journey.
 
 [Challenge 4 - Finance Analysis](https://github.com/SQLicious/Steel-Data-SQL-Python-Challenges/blob/main/Challenge%204%20-%20Finance%20Analysis.md)
 
+[Challenge 5 - Pub Pricing Analysis](https://github.com/SQLicious/Steel-Data-SQL-Python-Challenges/blob/main/Challenge%205%20-%20Pub%20pricing%20analysis.md)
+
 
    
 
