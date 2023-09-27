@@ -138,7 +138,7 @@ JOIN sales2 sa ON c.car_id = sa.car_id
 JOIN salespersons s ON sa.salesman_id = s.salesman_id
 WHERE YEAR(sa.purchase_date) = 2021 AND s.name = 'Emily Wong';
 ```
-# car_id, make, type, style, cost_$
+car_id, make, type, style, cost_$
 2, Toyota, Corolla, Hatchback, 25000
 4, Chevrolet, Camaro, Coupe, 36000```
 
