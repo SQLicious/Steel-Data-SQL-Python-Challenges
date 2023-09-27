@@ -4,7 +4,7 @@
 Steve runs a top-end car showroom, but his data analyst has just quit and left him without his crucial insights. 
 As an interim Data analyst for Steve, I analyzed the following data to provide him with all the answers he requires.
 
-![Case Study Theme](image_file_path.png)
+![Case Study Theme](https://github.com/SQLicious/Steel-Data-SQL-Python-Challenges/blob/main/Images/SQL%20Challenge%201%20Car%20Showroom%20Sales%20Analysis.png)
 <!-- Insert an image that accurately captures this case study theme -->
 
 ## Tables
