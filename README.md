@@ -20,7 +20,7 @@ I hope my solutions inspire your SQL journey.
 4. Explore my solution, read the comments, and adapt the queries to your needs.
 5. Feel free to experiment, modify, and enhance the queries to further your understanding.
 
-## Challenges 
+## Challenge List with solutions
 
 [Challenge 1 - Steve's Car Showroom](https://github.com/SQLicious/Steel-Data-SQL-Python-Challenges/blob/main/Challenge%201%20Steve's%20car%20showroom.md)
 
