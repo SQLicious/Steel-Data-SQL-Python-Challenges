@@ -22,6 +22,7 @@ I hope my solutions inspire your SQL journey.
 
 ## Challenges 
 
+[Challenge 1 - Steve's Car Showroom](https://github.com/SQLicious/Steel-Data-SQL-Python-Challenges/blob/main/Challenge%201%20Steve's%20car%20showroom.md)
 
 [Challenge 2 - Esports Tournament](https://github.com/SQLicious/Steel-Data-SQL-Python-Challenges/blob/main/Challenge%202%20-%20Esports%20Tournament)
 
