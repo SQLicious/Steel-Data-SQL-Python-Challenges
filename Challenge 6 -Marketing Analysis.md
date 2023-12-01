@@ -216,7 +216,7 @@ ORDER BY total_quantity_sold DESC;
 ```sql
 SELECT 
     mc.campaign_name,
-    ROUND(AVG(t.quantity * sc.price),2) as average_daily_revenue
+    ROUND(SUM(t.quantity * sc.price) / DATEDIFF(mc.end_date, mc.start_date), 2) as average_daily_revenue
 FROM 
     marketing_campaigns mc
 JOIN 
@@ -224,9 +224,10 @@ JOIN
 JOIN 
     sustainable_clothing sc ON mc.product_id = sc.product_id
 GROUP BY 
-    mc.campaign_name
+    mc.campaign_name, mc.start_date, mc.end_date
 ORDER BY 
     mc.campaign_name;
+
 ```
 ### 7. What is the percentage contribution of each product to the total revenue?
 
