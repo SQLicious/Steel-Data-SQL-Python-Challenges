@@ -1,4 +1,4 @@
-# Date created and Last ran : 10-20-2023 
+# Date created and Last ran : 12-1-2023 
 # Queries to solve Steel Data Challenge
 # Challenge 6 - Marketing Analysis
 
@@ -196,10 +196,12 @@ HAVING
     total_quantity_sold > (SELECT AVG(quantity) FROM transactions2)
 ORDER BY total_quantity_sold DESC;    
 
--- 6. What is the average revenue generated per day during the marketing campaigns?
+/* 6. What is the average revenue generated per day during the marketing campaigns?
+Think before you do this one , we need to calculate the total revenue during eac campaign and then divide it by the number of days in each campaign.*/
+
 SELECT 
     mc.campaign_name,
-    ROUND(AVG(t.quantity * sc.price),2) as average_daily_revenue
+    ROUND(SUM(t.quantity * sc.price) / DATEDIFF(mc.end_date, mc.start_date), 2) as average_daily_revenue
 FROM 
     marketing_campaigns mc
 JOIN 
@@ -207,9 +209,10 @@ JOIN
 JOIN 
     sustainable_clothing sc ON mc.product_id = sc.product_id
 GROUP BY 
-    mc.campaign_name
+    mc.campaign_name, mc.start_date, mc.end_date
 ORDER BY 
     mc.campaign_name;
+
 
 -- 7. What is the percentage contribution of each product to the total revenue?
 WITH product_revenue AS (
