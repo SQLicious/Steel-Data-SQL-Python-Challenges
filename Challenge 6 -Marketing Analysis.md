@@ -3,7 +3,7 @@
 ## Intro
 Sustainable Clothing Co. has been running several marketing campaigns. Acting as a Marketing Analyst at 'Sustainable Clothing Co.', I have been asked to provide my insights into whether they have been successful or not. I analyzed the following data and answered the questions to form my answer for this Challenge.
 
-![Case Study Theme](image_file_path.png)
+![Case Study Theme](https://github.com/SQLicious/Steel-Data-SQL-Python-Challenges/blob/e711ff13098cc577db39f2926efb47065c2e64b5/Images/SQL%20Challenge%206%20Marketing%20Analysis%20Cover.png)
 <!-- Insert an image that accurately captures this case study theme -->
 
 ## Tables
